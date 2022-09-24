@@ -1,7 +1,7 @@
-<p float="center">
-  <a href="https://www.google.com/search?q=mehant+kammakomati"><img src="https://i.ibb.co/q1fWv6L/Screen-Shot-2021-07-26-at-12-05-39-PM.png" width="750" /></a>
-</p>
-<a href="https://www.linkedin.com/in/mehant-kammakomati-1a0b41170/"> <img src="https://i.ibb.co/4TDrSs1/Screen-Shot-2021-07-26-at-12-03-46-PM.png" width="150" /> </a>
-<a href="https://twitter.com/mehant1"> <img src="https://i.ibb.co/27bwrFw/Screen-Shot-2021-07-26-at-12-22-21-PM.png" width="150" /> </a>
+## Hi 👋, I am Mehant
 
-![Mehant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmehant&show_icons=true&theme=radical)
+### [![Linkedin Badge](https://img.shields.io/badge/kmehant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehant-kammakomati-1a0b41170/)](https://www.linkedin.com/in/mehant-kammakomati-1a0b41170/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kmehant&theme=git-dark)](https://git.io/streak-stats)
+
+
