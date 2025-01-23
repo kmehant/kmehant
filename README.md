@@ -7,6 +7,5 @@
 #### ⭐️ Recent talks
 * Kubernetes Bengaluru Meet: https://youtu.be/5Vkn07CuJwQ?t=1221
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kmehant&theme=git-dark)](https://git.io/streak-stats)
 
 
